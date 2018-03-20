@@ -1,4 +1,3 @@
-#TOFO: Verify Clean
 obj-m := mpu.o
 KDIR := /home/louis/Documents/cross-compilation/linux-rpi-4.9.y/
 PWD := $(shell pwd)
